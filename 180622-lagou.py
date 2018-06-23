@@ -67,3 +67,6 @@ while True:
         time.sleep(10)
     else:
         break
+        
+# 关闭浏览器
+driver.close()
